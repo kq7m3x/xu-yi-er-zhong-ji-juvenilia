@@ -11,7 +11,7 @@
 - **Author**: **宋捷**（*Alexandra Chieh Sloan Sung*）
 - **Courtesy name & sobriquets (字 / 號)**: 字：**行之**；號：**生白無一人**
 - **Collection name**: **須以而重集** *Juvenilia*
-- **Time span (collection period)**: **2016–2026**
+- **Time span (collection period)**: **2019–2026**
 - **Writing age range**: **9–16**
 - **Contents**: LaTeX 源碼與對應 PDF
 
