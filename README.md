@@ -40,6 +40,7 @@ When citing this collection, please include (as applicable):
 - Date (if available)
 - Collection name: **Juvenilia**
 - Repository URL: `https://github.com/AlexandraSloan3/xu-yi-er-zhong-ji-juvenilia`
+[DOI: 10.5281/zenodo.21618038](https://doi.org/10.5281/zenodo.21618038)
 
 ---
 
