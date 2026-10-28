@@ -1,50 +1,20 @@
-# Xu Yi Er Zhong Ji (Juvenilia)
+# FileEssence·滲析
 
-**LaTeX source files and PDFs for _Xu Yi Er Zhong Ji (Juvenilia)_ — a collection of poems, fragments, and prose.**
+from: Jie Song
 
-![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+靜態下載網站，包含兩頁示例與離線工具 ZIP。
 
----
+## 發布到 GitHub Pages
 
-## Basic Information
+1. 在 GitHub 新建公開倉庫，名稱建議 fileessence，勾選 Add a README file。
+2. 解壓本 ZIP。選擇 Add file → Upload files，將解壓後的檔案和資料夾直接拖入（不要只上傳 ZIP，也不要多包一層資料夾）。提交變更。
+3. 開啟 Settings → Pages。Source 選 Deploy from a branch；Branch 選 main，資料夾選 /(root)，按 Save。
+4. 等待發布完成，Pages 設定頁會顯示網站網址。開啟並檢查 Download ZIP。
 
-- **Author**: **宋捷**（*Alexandra Chieh Sloan Sung*）
-- **Courtesy name & sobriquets (字 / 號)**: 字：**行之**；號：**生白無一人**
-- **Collection name**: **須以而重集** *Juvenilia*
-- **Writing age range**: **9–16**
-- **Contents**: LaTeX 源碼與對應 PDF
+倉庫根目錄應直接看到 index.html、assets、downloads、examples。
 
----
+本包已移除原本未上線的預定網址，可部署於不同帳號的專案路徑；站內連結皆為相對路徑。取得正式網址後，可再補 canonical 與 sitemap。
 
-## Repository Link
+上線不等於立即被搜尋引擎收錄。下載後的工具可離線使用；網站本身的可達性取決於訪客網路。
 
-- GitHub repository: `https://github.com/AlexandraSloan3/xu-yi-er-zhong-ji-juvenilia`
-
----
-
-## License
-
-This collection is released under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
-
-- Please refer to: `LICENSE`
-- Human-readable summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
-
----
-
-## Citation
-
-When citing this collection, please include (as applicable):
-
-- Title (or filename)
-- Date (if available)
-- Collection name: **Juvenilia**
-- Repository URL: `https://github.com/AlexandraSloan3/xu-yi-er-zhong-ji-juvenilia`
-- [DOI: 10.5281/zenodo.21618038](https://doi.org/10.5281/zenodo.21618038)
-
----
-
-## Contact
-
-- Email: alexandra.sung@protonmail.com
-- Website/GitHub: https://github.com/AlexandraSloan3
-
+官方說明：https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
